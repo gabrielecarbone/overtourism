@@ -1,0 +1,12 @@
+TRAINING DEI MODELLI
+I modelli verranno allenati utilizzando la una sorta di cross-validation e 
+il numero di tourist info point come target fature
+
+Si prendono soltanto il 20/30% dei tourist info point e si vede quali altre
+città hanno caratteristiche simili
+Si ripete il processo fino a quando non si ha una rotazione completa di
+tutto il dataset
+
+Le città/aree che spuntano più spesso sono quelle a potenziale più alto
+(si potrebbe anche utilizzare la somma dei punteggi ricevuti per ogni
+singola simulazione)
