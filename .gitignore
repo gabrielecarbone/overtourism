@@ -1,3 +1,6 @@
 italy_venice/000-download_dbf/*
 italy_venice/010-add_coordinates/coordinates/*
 italy_venice/020-clean_dbs/filtered/*
+italy_venice/030-training_models/1. filtered_df.csv
+italy_venice/030-training_models/0. merged_df.csv
+italy_venice/030-training_models/final_map_converted.gpkg
