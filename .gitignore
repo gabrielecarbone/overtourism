@@ -1,6 +1,18 @@
 italy_venice/000-download_dbf/*
 italy_venice/010-add_coordinates/coordinates/*
 italy_venice/020-clean_dbs/filtered/*
-italy_venice/030-training_models/1. filtered_df.csv
-italy_venice/030-training_models/0. merged_df.csv
+italy_venice/030-training_models/0.merged_df.csv
 italy_venice/030-training_models/final_map_converted.gpkg
+
+netherlands_amsterdam/000-download_dbf/*
+netherlands_amsterdam/010-add_coordinates/coordinates/*
+netherlands_amsterdam/020-clean_dbs/filtered/*
+netherlands_amsterdam/030-training_models/0.merged_df.csv
+netherlands_amsterdam/original_datasets/*
+
+
+spain_barcelona/000-download_dbf/*
+spain_barcelona/010-add_coordinates/coordinates/*
+spain_barcelona/020-clean_dbs/filtered/*
+spain_barcelona/030-training_models/0.merged_df.csv
+spain_barcelona/original_datasets/*

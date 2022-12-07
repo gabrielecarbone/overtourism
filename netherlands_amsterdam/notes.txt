@@ -1,0 +1,10 @@
+############### STEP 000 - DOWNLOAD DBF ###############
+La regione intorno ad Amsterdam era troppo piccola
+Di conseguenza si sono scaricate anche le porzioni di territorio intorno alla città
+
+Il problema è che i file vengono scaricati tutti con lo stesso nome, quindi non è possibile estrarli nella stessa cartella senza sovrascriverli
+
+Per unire tutti i file abbiamo utilizzato programma Bulk Rename Utility
+Viene assegnato un prefisso, con il nome della zona, a tutti i territori scaricati e poi vengono messi in una sola cartella "000-download_dbf"
+
+
